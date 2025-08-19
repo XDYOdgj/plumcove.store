@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://plumcove.store/sitemap.xml
